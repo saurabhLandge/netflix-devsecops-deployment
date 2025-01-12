@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: netflix-app
-        image: saurabhlandge/nextflix:latest
+        image: saurabhlandge/nextflixdemo:latest
         ports:
         - containerPort: 3000
